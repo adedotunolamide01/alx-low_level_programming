@@ -1,4 +1,4 @@
-#include < stadio.h>
+#include < stdio.h>
 /**
  *main - entry point
  *
@@ -6,19 +6,6 @@
  */
 int main(void)
 {
-put("\"Programming is like build a multilingual puzzle");
-return (0);
-
-
-
-
-
-
-
-
-
-
-
-
-
-[A[A[A[A[A[A[A[A[A[A[A[A[A}
+    put("\"Programming is like build a multilingual puzzle");
+    return (0);
+}
