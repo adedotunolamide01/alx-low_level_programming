@@ -1,5 +1,3 @@
-[A[B#!/bin/bash
+#!/bin/bash
 gcc -c $CFILE
-
 
-[3~[3~[3~[3~[3~[3~[3~[A[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C
